@@ -41,7 +41,7 @@
     "@actions/http-client": "^1.0.11",
     "@octokit/core": "^3.4.0",
     "@octokit/plugin-paginate-rest": "^2.13.3",
-    "@octokit/plugin-rest-endpoint-methods": "^5.1.1"
+    "@octokit/plugin-rest-endpoint-methods": "^5.5.1"
   },
   "devDependencies": {
     "proxy": "^1.0.2"
