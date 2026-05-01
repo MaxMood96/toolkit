@@ -1,5 +1,15 @@
 # @actions/cache Releases
 
+## 6.0.1
+
+- Bump dependency versions ([#2393](https://github.com/actions/toolkit/pull/2393)):
+  - `@actions/core` to `^3.0.1`
+  - `@actions/http-client` to `^4.0.1`
+  - `@actions/io` to `^3.0.2`
+  - `@azure/core-rest-pipeline` to `^1.23.0`
+  - `@azure/storage-blob` to `^12.31.0`
+  - `semver` to `^7.7.4`
+
 ## 6.0.0
 
 - **Breaking change**: Package is now ESM-only
